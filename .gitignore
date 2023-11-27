@@ -41,3 +41,4 @@ gpg_payload.json
 provider_payload.json
 provider_version_payload.json
 provider_platform_payload.json
+private_key.txt
