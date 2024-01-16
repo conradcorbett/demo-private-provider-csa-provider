@@ -21,7 +21,8 @@ func (animal *Animal) GetAnimalFromClass(id string) string {
 	animals["fish"] = "Great White Shark"
 	animals["reptile"] = "Blue Iguana"
 	animals["amphibian"] = "Common Frog"
-
+	animals["dinosaur"] = "Velociraptor"
+	
 	return animals[strings.ToLower(id)]
 }
 
